@@ -49,3 +49,20 @@ zigging<br>
 zagging<br><br>
 Sample Output 2<br>
 false
+
+#Removing Duplicates
+Time Limit: 2 seconds
+
+You will be provided a list of integer numbers, you must output these numbers in the order you recieve them, but making sure you remove any duplicates.
+
+Input<br>
+Input will consist of one test case. Input will begin with a single integer N, that will specify the number of integers that will be in the list. This will be followed by N integers on a single line.
+
+Output<br>
+Output the numbers in the order they appear in the input, but removing the duplicate entries.
+
+Sample Input 1
+10<br>
+2 3 5 1 2 4 1 5 2 6<br><br>
+Sample Output 1<br>
+2 3 5 1 4 6
