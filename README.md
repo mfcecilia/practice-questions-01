@@ -1,7 +1,6 @@
-# practice-questions-01
 VT Programming team lecture 2016.02.16
 
-Multiples of 3 and 5<br>
+# Multiples of 3 and 5<br>
 Time Limit: 2 seconds<br>
 
 Project Euler 1: https://projecteuler.net/problem=1<br>
@@ -28,3 +27,25 @@ Sample Input 3
 381<br>
 Sample Output 3<br>
 33758
+
+# Anagrams <br>
+Time Limit: 2 seconds<br>
+
+This problem will ask you to recognize if two strings are anagrams of each other. Two strings are anagrams of each other if you can rearrange the letters of one to make the other (They have exactly the same letters, order not mattering).
+
+Input<br>
+Input will consist of a single test case. You will be provided with two strings, aa and bb. Both strings will consist of lowercase alphabetical characters only.<br>
+
+Output<br>
+Print “‘true”’ if aa and bb are anagrams of each other, “‘false”’ otherwise.
+
+Sample Input 1	
+tommarvoloriddle<br>
+iamlordvoldemort<br><br>
+Sample Output 1<br>
+true<br><br>
+Sample Input 2	
+zigging<br>
+zagging<br><br>
+Sample Output 2<br>
+false
